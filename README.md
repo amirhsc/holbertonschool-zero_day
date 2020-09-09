@@ -1,2 +1,2 @@
-## Hi, my names is **Amir Alexander**# 
+## Hi, my names is **Amir**# 
 # holbertonschool-zero_day
